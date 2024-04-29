@@ -1,0 +1,38 @@
+.card{
+    width: 400px;
+    height: 425px;
+    margin-bottom: 75px;
+}
+
+.card img{
+    height: 375px;
+    width: 100%;
+    border-radius: 0;
+}
+
+
+.main-section_images .row{
+    height: 563px;
+}
+
+.img-left{
+    object-position: left;
+    object-fit:cover;
+}
+    
+.img-right{
+    object-position: right;
+    object-fit:cover;
+}
+
+.hover-card {
+    transition: opacity 0.3s ease, color 0.3s ease;
+}
+    
+.hover-card:hover img {
+    opacity: 0.7; 
+}
+    
+.hover-card:hover  a {
+    color: rgba(164, 31, 35, 1) !important; 
+}

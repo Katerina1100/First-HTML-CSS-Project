@@ -1,0 +1,12 @@
+.card-button_next{
+    position: absolute;
+    padding: 0;
+    transform: translate(-50%, -50%);
+    bottom: -40%;
+    right: 0%;
+}
+
+.rounded-pill:hover{
+    box-shadow: 4px 0px 6px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+}

@@ -1,0 +1,49 @@
+.hero-section {
+  background-image: url(../images/hero.svg) !important;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 1300px;
+  margin-bottom: 2060px;
+}
+
+.hero-section_bottom{
+    background-color: rgba(248, 240, 241, 0.68);
+    width: max-content;
+    position: absolute;
+    bottom: -121%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px 50px;
+    border-radius: 10% / 100%;
+}
+
+.card-button_next{
+    position: absolute;
+    padding: 0;
+    transform: translate(-50%, -50%);
+    bottom: -30%;
+    right: -10%;
+}
+
+.card-title{
+    height: 59px;
+}
+
+.card-text{
+    height: 96px;
+}
+
+.main-section_our-members{
+    background: linear-gradient(161.7deg, #A41F23 3.75%, rgba(164, 31, 35, 0.822917) 17.43%, rgba(164, 31, 35, 0.582064) 63.57%, rgba(164, 31, 35, 0.390542) 79.97%, rgba(164, 31, 35, 0) 100.82%);;  
+}
+
+#our-members-carousel{
+    padding: 0 100px;
+    height: fit-content;
+}
+
+.main-section_card .card{
+    border-radius: 20px !important;
+}
+

@@ -1,0 +1,25 @@
+.carousel{
+    background-color:rgba(248, 240, 241, 1);
+    height: 150px;
+}
+
+footer{
+    background-color: rgba(164, 31, 35, 1);
+}
+
+.footer-text{
+    height: 300px;
+    width: 70%;
+    margin-left: auto;
+}
+
+.logo-footer{
+    position: absolute;
+    bottom: 15%;
+    left: 15%; 
+    transform: translate(-50%, -50%);
+}
+
+.row .col-3 a:hover{
+    font-weight: bolder;
+}

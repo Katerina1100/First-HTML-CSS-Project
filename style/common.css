@@ -1,0 +1,128 @@
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.bg-1{
+    background-image: url(../images/background-1.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+
+.bg-2{
+    background-image: url(../images/background-2.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+
+.bg-3{
+    background-image: url(../images/background-3.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+
+.hero-section-2 {
+    background-image: url(../images/hero.svg) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 810px;
+    background-color: rgba(253, 253, 253, 0.4); 
+    background-blend-mode: overlay;
+}
+
+.mt-6{
+    margin-top: 280px;
+}
+
+.mb-6{
+    margin-bottom: 280px;
+}
+
+.mt-7 {
+    margin-top: 160px;
+}
+
+.mb-7 {
+    margin-bottom: 160px;
+}
+
+.mb-8{
+    margin-bottom: 70px;
+}
+
+.mt-9{
+    margin-top: 90px;
+}
+
+.mb-9{
+    margin-bottom: 90px;
+}
+
+.mtb{
+    margin: 120px 0px;
+}
+
+.py-6{
+    padding:50px 80px;
+}
+
+.fs-8{
+    font-size: 45px;
+}
+
+.fs-18{
+    font-size: 18px;
+}
+.fs-14{
+    font-size: 14px !important;
+}
+
+.fs-22{
+    font-size: 22px;
+}
+
+.fs-64{
+    font-size: 64px;
+}
+
+.hover-a-gallery:hover{
+    color: rgba(164, 31, 35, 1) !important;
+}
+
+.justify-text{
+    text-align: justify !important;
+}
+
+.text-red{
+    color: rgba(164, 31, 35, 1) !important ;
+}
+
+.carousel button{
+    opacity: 1;
+}
+
+.eng-mkd:hover{
+    font-weight: bold;
+}
+
+.red-text-link:hover{
+    text-decoration: underline !important;
+}
+
+
+.card:hover .card-title{
+    font-weight: bold;
+}
+
+.span-hover:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}

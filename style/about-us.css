@@ -1,0 +1,16 @@
+#leadership-carousel { 
+    padding: 20px 100px;
+   height: fit-content;
+}
+
+.main-section_carousel .carousel{
+    background-image: linear-gradient(136.32deg, rgba(248, 240, 241, 0) 0.5%, rgba(248, 240, 241, 0.679253) 23.9%, rgba(248, 240, 241, 0.396254) 24.48%, #FFFFFF 61.09%);  
+    border-radius: 20px;  
+}
+
+.card-body{
+    border-radius: 0px 0px 20px 20px !important;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    height: 105px;
+}
+

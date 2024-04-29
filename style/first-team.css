@@ -1,0 +1,24 @@
+
+.card img{
+    height: 190px !important;
+}
+.card-body{
+    height: 96px !important;
+}
+
+.card-title{
+    width: 70px;  
+}
+
+.card:hover .image {
+    transform: scale(1.07); 
+}
+
+.card:hover .card-body {
+    transform: scale(1.07); 
+    
+}
+
+.card:hover .card-text {
+    font-weight: bolder;
+}
